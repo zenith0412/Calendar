@@ -1,0 +1,16 @@
+.calendar {
+    width: 100%;
+    background-color: #02111a;
+    color: #89cef9;
+}
+
+.calendar th,
+.calendar td {
+    padding: 8px;
+    text-align: center;
+}
+
+.calendar .highlight {
+    background-color: #89cef9;
+    color: #02111a;
+}
